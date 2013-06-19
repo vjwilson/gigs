@@ -1,5 +1,4 @@
 .DS_Store
 *.tmp
-public/
-node_modules/
-npm-debug.log
+app/node_modules
+app/public/stylesheets/*.css
