@@ -84,7 +84,7 @@ function signup(req, res, next){
 
 
 function listJobs(req, res, next){
-	res.send('Here are the jobs');
+	res.render('jobs.jade');
 }
 
 
